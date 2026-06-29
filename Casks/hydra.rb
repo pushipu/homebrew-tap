@@ -1,6 +1,6 @@
 cask "hydra" do
-  version "0.2.0"
-  sha256 "78c8316024771b3d6da37e76bfc556219caeead4fd2e39342cba49af3332efa4"
+  version "0.3.0"
+  sha256 "e4f5d8bfe7cc5c63564eda286fa99004cce1ecd274f921a1ee6cc7214138005b"
 
   url "https://github.com/pushipu/Hydra/releases/download/v#{version}/Hydra-#{version}-macos.zip"
   name "Hydra"
